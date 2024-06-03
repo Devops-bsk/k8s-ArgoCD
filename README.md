@@ -16,7 +16,7 @@ README.md: This file.
 To set up the project locally, follow these steps:
 
 Clone the repository.
-https://github.com/omnagare9975/k8s-argo-cd-assignment.git
+https://github.com/Deops-bsk/
 Navigate to the app/ directory.
 Build the Docker image using the provided Dockerfile.
 Apply the Kubernetes manifests in the kubernetes/manifests/ directory to your Kubernetes cluster.
